@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #D78A76;
+}
+
+div {
+    height: 100%;
+    width: 100%;
+    background-color: #D78A76;
+    color: #F3CA40;
+}
+
+#text {
+    text-align: center;
+}
